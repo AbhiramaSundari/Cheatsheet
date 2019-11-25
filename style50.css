@@ -1,4 +1,10 @@
+body{
+    background-color: darkgray;
+}
 p{
     color: blue;
-    background-color: crimson;
+   
+}
+h2{
+    color: darkred;
 }
